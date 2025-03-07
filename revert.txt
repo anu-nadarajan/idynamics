@@ -1,3 +1,6 @@
 This is first line
+<<<<<<< HEAD
 This is second line
 This is Third line
+=======
+>>>>>>> parent of d6a13dd (Revert second file)
